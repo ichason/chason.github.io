@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/chason.github.io/',
   title: "The journey of life",
   description: "Record the moment ",
   themeConfig: {
